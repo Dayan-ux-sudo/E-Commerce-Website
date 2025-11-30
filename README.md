@@ -1,8 +1,8 @@
-###This is a E-Commerce Web Application ###
+##This is a E-Commerce Web Application
 This is a basic e-commerce web application where one can trade and shop online.
 
 
-##Features##
+Features
 It has a shoping cart used to add/remove items and also used for quantity mangement.  
 It has a responsive design.
 There is databse integration using MySQL with PDO.
